@@ -4,6 +4,7 @@
     * ReadOnlyPost
     * EditablePost
         * delete function
+    * Toggle Editable button
     * State:
         * isEditing: boolean
         * author: string
